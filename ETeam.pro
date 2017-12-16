@@ -1,4 +1,4 @@
-update=19.04.2017 23:49:02
+update=08.08.2017 15:12:43
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,4 +59,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=Z:/kicadlib/alexlib
+LibName31=C:/Projekte/kicadlib/alexlib
